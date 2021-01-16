@@ -12,3 +12,5 @@ This repository contains code from https://medium.com/swlh/build-your-first-rest
 > pipenv shell
 
 > python mysite/manage.py runserver
+
+> To access /admin use 'root' user and 'admin' pass
